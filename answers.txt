@@ -4,7 +4,7 @@ Meanwhile, non-agile development focuses on a clearer structure than agile, and 
 (b) : The Scrum Master handles the day-to-day activities, such as stand-ups, and generally acts as a coach to the team. 
 The product manager works on the backlog, and priorities the features and mitigates issues between the stakeholders and the team.
 
-(c): Three types of meetings include:
+(c) : Three types of meetings include:
 
     - Daily stand-ups
         Consists of synchronization between team members and any important project updates.
@@ -14,3 +14,10 @@ The product manager works on the backlog, and priorities the features and mitiga
 
     - Sprint retrospective
         Held at end of sprint, reflection on what went right/wrong, and discussion on improvements for next sprint
+
+(d) :
+    An epic is a high-level container for a specific category that is broken down into parts by the other three issue types.
+    A story is a way to describe features from a user point-of-view. They focus on how the product will solve an actual need for the user.
+    A bug is a defect that has been recognized and found during testing that needs to be addressed. They are prioritized based on severity and fixed. 
+    A task is any action needed to complete a story. Several tasks might be needed to complete a story and/or epic.
+    
