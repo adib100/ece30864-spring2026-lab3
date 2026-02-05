@@ -3,3 +3,14 @@ Meanwhile, non-agile development focuses on a clearer structure than agile, and 
 
 (b) : The Scrum Master handles the day-to-day activities, such as stand-ups, and generally acts as a coach to the team. 
 The product manager works on the backlog, and priorities the features and mitigates issues between the stakeholders and the team.
+
+(c): Three types of meetings include:
+
+    - Daily stand-ups
+        Consists of synchronization between team members and any important project updates.
+
+    - Sprint planning
+        Held at the start of a sprint, discusses role management and adds items to backlog
+
+    - Sprint retrospective
+        Held at end of sprint, reflection on what went right/wrong, and discussion on improvements for next sprint
