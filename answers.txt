@@ -1,2 +1,5 @@
 (a) : Agile development is helpful for its high adaptability and its speed, but lacks in its overall predictability and is more resource intensive. 
 Meanwhile, non-agile development focuses on a clearer structure than agile, and is more predictable, but fails to be flexible in its project path, as it follows a more linear path than agile.
+
+(b) : The Scrum Master handles the day-to-day activities, such as stand-ups, and generally acts as a coach to the team. 
+The product manager works on the backlog, and priorities the features and mitigates issues between the stakeholders and the team.
