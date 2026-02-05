@@ -1,0 +1,2 @@
+(a) : Agile development is helpful for its high adaptability and its speed, but lacks in its overall predictability and is more resource intensive. 
+Meanwhile, non-agile development focuses on a clearer structure than agile, and is more predictable, but fails to be flexible in its project path, as it follows a more linear path than agile.
